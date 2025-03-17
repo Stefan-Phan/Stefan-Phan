@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋 I'm Stefan  
 
-<!--
-**Stefan-Phan/Stefan-Phan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year **Software Engineering (Honours)** student at the **University of South Australia** with a deep passion for coding and problem-solving. My programming journey began in secondary school with **Pascal**, where I was captivated by structured logic and the ability to bring ideas to life through code.  
 
-Here are some ideas to get you started:
+Since then, I’ve explored various languages and frameworks, continuously learning and refining my skills. I love the thrill of **debugging, building efficient solutions, and creating innovative applications**. Whether it’s **full-stack development, software engineering principles, or AI-driven solutions**, I enjoy tackling challenges that push my understanding further.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Skills  
+- **Languages:** JavaScript, Python, SQL, C#, Swift  
+- **Frameworks & Tools:** React.js, Node.js, Express.js, MySQL, Django, Flask, SwiftUI  
+- **Concepts:** Algorithms, Software Development, UI/UX, Accessibility  
+
+## 🚀 Current Projects  
+- **SmartSaver** – A full-stack money tracker app with AI-driven financial recommendations  
+- **Little Lemon API** – An API for a restaurant  
+- **GMPS** – The backend for a general medical practice system  
+- **GameHub** – A web application designed to create a dynamic forum centered around video games  
+
+## 🌱 Learning & Exploring  
+I’m currently expanding my knowledge in **React.js, backend development, and software architecture**, while also improving my **Figma design workflow** for UI/UX projects.  
+
+## 📫 Let’s Connect!  
+📧 **Email:** phannguyentuanhung2005@gmail.com  
+🔗 **LinkedIn:** [Hung Phan](https://www.linkedin.com/in/hungphan005/)  
+
+Feel free to check out my repositories and collaborate on exciting projects. I'm always open to learning, sharing ideas, and contributing to meaningful tech solutions! 🚀  
