@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm Stefan  
 
-I'm a second-year **Software Engineering (Honours)** student at the **University of South Australia** with a deep passion for coding and problem-solving. My programming journey began in secondary school with **Pascal**, where I was captivated by structured logic and the ability to bring ideas to life through code.  
-
-Since then, I’ve explored various languages and frameworks, continuously learning and refining my skills. I love the thrill of **debugging, building efficient solutions, and creating innovative applications**. Whether it’s **full-stack development, software engineering principles, or AI-driven solutions**, I enjoy tackling challenges that push my understanding further.  
+I'm a second-year **Software Engineering (Honours)** student at the **University of South Australia** with a deep passion for coding and problem-solving. My programming journey began in secondary school with **Pascal**, where I was captivated by structured logic and the ability to bring ideas to life through code.
 
 ## 🔧 Technologies & Skills  
 - **Languages:** JavaScript, Python, SQL, C#, Swift  
