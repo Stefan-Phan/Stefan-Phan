@@ -3,8 +3,8 @@
 I'm a second-year **Software Engineering (Honours)** student at the **University of South Australia** with a deep passion for coding and problem-solving. My programming journey began in secondary school with **Pascal**, where I was captivated by structured logic and the ability to bring ideas to life through code.
 
 ## 🔧 Technologies & Skills  
-- **Languages:** JavaScript, Python, SQL, C#, Swift  
-- **Frameworks & Tools:** React.js, Node.js, Express.js, MySQL, Django, Flask, SwiftUI  
+- **Languages:** JavaScript/TypeScript, Python, SQL, C#, Swift  
+- **Frameworks & Tools:** React.js/Next.js, Node.js, Express.js, MySQL, Django, Flask, SwiftUI  
 - **Concepts:** Algorithms, Software Development, UI/UX, Accessibility  
 
 ## 🚀 Current Projects  
