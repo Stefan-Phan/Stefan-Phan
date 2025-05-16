@@ -5,16 +5,7 @@ I'm a second-year **Software Engineering (Honours)** student at the **University
 ## 🔧 Technologies & Skills  
 - **Languages:** JavaScript/TypeScript, Python, SQL, C#, Swift  
 - **Frameworks & Tools:** React.js/Next.js, Node.js, Express.js, MySQL, Django, Flask, SwiftUI  
-- **Concepts:** Algorithms, Software Development, UI/UX, Accessibility  
-
-## 🚀 Current Projects  
-- **SmartSaver** – A full-stack money tracker app with AI-driven financial recommendations  
-- **Little Lemon API** – An API for a restaurant  
-- **GMPS** – The backend for a general medical practice system  
-- **GameHub** – A web application designed to create a dynamic forum centered around video games  
-
-## 🌱 Learning & Exploring  
-I’m currently expanding my knowledge in **React.js, backend development, and software architecture**, while also improving my **Figma design workflow** for UI/UX projects.  
+- **Concepts:** Algorithms, Software Development, UI/UX, Accessibility   
 
 ## 📫 Let’s Connect!  
 📧 **Email:** phannguyentuanhung2005@gmail.com  
