@@ -9,6 +9,6 @@ I'm a second-year **Software Engineering (Honours)** student at the **University
 
 ## 📫 Let’s Connect!  
 📧 **Email:** phannguyentuanhung2005@gmail.com  
-🔗 **LinkedIn:** [Hung Phan](https://www.linkedin.com/in/hungphan005/)  
+🔗 **LinkedIn:** [Stefan Phan](https://www.linkedin.com/in/hungphan005/)  
 
 Feel free to check out my repositories and collaborate on exciting projects. I'm always open to learning, sharing ideas, and contributing to meaningful tech solutions! 🚀  
